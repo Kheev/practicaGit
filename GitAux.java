@@ -21,5 +21,9 @@ public class GitAux {
     
     public void metodoComunitario(){
     }
-    	//fin programa
+    	//fin program
+    public void testGitAux(){
+    	// metodo rama testing
+	System.out.println("Metodo de testing");
+    }
 }
